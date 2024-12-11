@@ -1,3 +1,5 @@
+![Preview Image](Screenshot_1-11-2024_164614_th.bing.com (1).jpeg)
+
 Spotify Premium for Free 2024
 Welcome to the repository for Spotify Premium for Free 2024! This repository is dedicated to providing resources, tools, and information on how to enjoy Spotify Premium features without any cost. Feel free to explore, contribute, and share your feedback with the community.
 
